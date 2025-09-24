@@ -3,12 +3,17 @@
 <div align="center">
   
   <!-- Enhanced Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,16,19,24&height=300&section=header&text=Iresh%20Nimantha&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ICT%20Student%20%7C%20Tech%20Innovator&descAlignY=68&descSize=24&fontAlign=50&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,16,19,24&height=300&section=header&text=Iresh%20Nimantha&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Developer%20%7C%20ICT%20Student%20%7C%20AI%20Enthusiast&descAlignY=68&descSize=24&fontAlign=50&descAlign=50" />
   
-  <!-- Advanced Typing Animation -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=800&color=2E8BFF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Building+Tomorrow's+Web+Solutions;💻+MERN+%7C+Laravel+%7C+Next.js+Expert;🎯+Turning+Ideas+Into+Digital+Reality;🌟+Always+Learning%2C+Always+Growing" alt="Advanced Typing Animation" />
-  </p>
+<!-- Advanced Typing Animation for README -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=800&color=2E8BFF&center=true&vCenter=true&multiline=true&width=800&height=160&lines=%F0%9F%9A%80+Building+Tomorrow's+Solutions;%F0%9F%92%BB+MERN+%7C+Laravel+%7C+Next.js+%7C+Kotlin;%F0%9F%8E%AF+Turning+Ideas+Into+Digital+Reality;%F0%9F%8C%9F+Always+Learning%2C+Always+Growing" 
+    alt="Advanced Typing Animation" 
+  />
+</p>
+
+
 
   <!-- Enhanced Profile Badges -->
   <p align="center">
@@ -80,12 +85,12 @@ const iresh: Developer = {
 
 ### 📱 Mobile & 3D Development
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,threejs,blender&perline=10" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,threejs&perline=10" />
 </p>
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux,aws,wordpress&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,wordpress&perline=10" />
 </p>
 
 ### 🚀 Languages & Frameworks
@@ -95,12 +100,13 @@ const iresh: Developer = {
 
 ### 📊 Currently Mastering
 <p>
-  <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
+
 
 </div>
 
@@ -116,6 +122,8 @@ const iresh: Developer = {
 | **💼 JobNexus Platform** | Full-stack job portal with JWT authentication, real-time chat, and advanced filtering | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | [![Live](https://img.shields.io/badge/Live-00C49F?style=flat-square&logo=vercel)](https://jobnexus.lk) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/iresh-nimantha/jobnexus) |
 | **📝 Laravel Blog Engine** | Modern blog platform with admin dashboard, SEO optimization, and content management | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | [![Live](https://img.shields.io/badge/Live-FF2D20?style=flat-square&logo=laravel)](https://blog.iresh.dev) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/iresh-nimantha/laravel-blog) |
 | **🎵 UCMC Official Website** | WordPress-powered university music circle website with event management and gallery | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [![Live](https://img.shields.io/badge/Live-21759B?style=flat-square&logo=wordpress)](https://ucmc.lk) [![Info](https://img.shields.io/badge/Info-00C49F?style=flat-square&logo=information)](https://github.com/iresh-nimantha) |
+| **📱 FOT News Mobile App** | Native Java Android app for faculty news with real-time updates and push notifications | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | [![APK](https://img.shields.io/badge/Download%20APK-3DDC84?style=flat-square&logo=android)](https://example.com/fot-news.apk) [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iresh-nimantha/fot-news-app) |
+
 
 </div>
 
@@ -165,16 +173,6 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
 ```
 <!--END_SECTION:waka-->
 
----
-
-## 🎨 Creative Coding Showcase
-
-<div align="center">
-  
-  <!-- Code Animation -->
-  <img src="https://raw.githubusercontent.com/iresh-nimantha/iresh-nimantha/output/snake.svg" alt="Snake animation" />
-  
-</div>
 
 ---
 
@@ -184,13 +182,6 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
 </div>
 
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=30363d" />
-</div>
 
 ---
 
@@ -204,7 +195,7 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
     <a href="https://www.linkedin.com/in/iresh-nimantha">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
     </a>
-    <a href="mailto:ireshnimantha@gmail.com">
+    <a href="mailto:ireshnimantha608@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
     </a>
     <a href="https://github.com/iresh-nimantha">
@@ -221,15 +212,15 @@ Other        ▓░░░░░░░░░░░░░░░░░░░░    
     </a>
   </p>
   
-  ### 🤝 I'm interested in...
-  ```javascript
-  const collaboration = {
-    openSource: ["React Libraries", "Laravel Packages", "WordPress Plugins"],
-    freelance: ["Full-Stack Development", "3D Web Experiences", "Mobile Apps"],
-    mentoring: ["Junior Developers", "University Students", "Career Guidance"],
-    speaking: ["Tech Meetups", "University Events", "Developer Conferences"]
-  };
-  ```
+### 🤝 I'm interested in...
+```javascript
+const collaboration = {
+  openSource: ["AI Tools", "MERN Projects", "Automation Scripts"],
+  freelance: ["Web Apps", "UI/UX Design", "Chatbots"],
+  learning: ["Machine Learning", "Prompt Engineering", "Cloud Tech"],
+  exploring: ["AR/VR", "3D Web Experiences", "Next-gen Web"]
+};
+```
   
   ### 📬 Let's build something amazing together!
   
